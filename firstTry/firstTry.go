@@ -1,6 +1,6 @@
 package firsttry
 
-//Si que lo és, es un gran paso
+//Función de Try
 func Try() string {
 	return "Si"
 }

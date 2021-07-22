@@ -1,7 +1,7 @@
 package main
 
 import (
-	firsttry "firstTry/go-try-1/firstTry"
+	"firstTry/go-try-1/firsttry"
 	"fmt"
 )
 
