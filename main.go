@@ -1,10 +1,11 @@
 package main
 
 import (
-	"firstTry/go-try-1/firsttry"
+	"firstTry/go-try-1/sinonimos"
 	"fmt"
 )
 
 func main() {
-	fmt.Println(firsttry.Try())
+
+	fmt.Println(sinonimos.Iguales())
 }
